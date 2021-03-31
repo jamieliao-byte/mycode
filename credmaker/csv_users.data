@@ -1,0 +1,3 @@
+http://controller:35357/v2/,myproject,default,admin,default,alta3
+http://controller:35357/v3/,myproject2,default,admin2,default,alta3
+http://controller:35357/v4/,myproject3,default,admin3,default,alta3
